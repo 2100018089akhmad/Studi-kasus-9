@@ -1,0 +1,21 @@
+Data Mahasiswa yang mengikuti ujian ulang matkul basis data dengan dosen ibu Nana:
+ Kelas       NIM               NAMA
+---------------------------------------------
+  A       1900018018      Andika Pangestu
+          1900018029      Sadajiwa Kuncoro
+          2000018011      Sasa Nur Safitri 
+          2000018023      Karin Ayu
+          2000018030      Dika Saputra
+----------------------------------------------  
+  B       1900018001      Sandika Aji  
+          2000018045      Putri Larasati
+          2000018046      Najib Nur Kholisa
+          2000018048      Ayu Dewi Kencana
+          2000018050      Kirana Sekar
+----------------------------------------------
+  C       1900018033      Sadewa Jatmiko  
+          1900018101      Cipta Dewandaru
+          1900018150      Endra Iswaman
+          2000018056      Laksana Lingga      
+          2000018060      Mada Nismara        
+----------------------------------------------          
